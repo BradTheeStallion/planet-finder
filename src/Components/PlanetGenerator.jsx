@@ -68,9 +68,9 @@ const PlanetGenerator = () => {
   };
 
   return (
-    <div className='component-box'>
-      <div className='project-container'>
-        <div className='project-box'>
+    <div>
+      <div>
+        <div>
           <h1>Close Encounters:</h1>
           <h2>Visions of Life Beyond Earth</h2>
           <p>Adjust the variables below to see what life could potentially inhabit such a planet.</p>
