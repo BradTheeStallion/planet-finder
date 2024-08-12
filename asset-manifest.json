@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/planet-finder/static/css/main.08a20766.css",
+    "main.css": "/planet-finder/static/css/main.6e7ef0c8.css",
     "main.js": "/planet-finder/static/js/main.34039774.js",
     "static/js/48.ff0f4f7c.chunk.js": "/planet-finder/static/js/48.ff0f4f7c.chunk.js",
     "static/js/453.33746b1e.chunk.js": "/planet-finder/static/js/453.33746b1e.chunk.js",
     "index.html": "/planet-finder/index.html",
-    "main.08a20766.css.map": "/planet-finder/static/css/main.08a20766.css.map",
+    "main.6e7ef0c8.css.map": "/planet-finder/static/css/main.6e7ef0c8.css.map",
     "main.34039774.js.map": "/planet-finder/static/js/main.34039774.js.map",
     "453.33746b1e.chunk.js.map": "/planet-finder/static/js/453.33746b1e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08a20766.css",
+    "static/css/main.6e7ef0c8.css",
     "static/js/main.34039774.js"
   ]
 }
