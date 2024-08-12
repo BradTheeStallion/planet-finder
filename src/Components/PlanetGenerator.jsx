@@ -68,7 +68,7 @@ const PlanetGenerator = () => {
   };
 
   return (
-    <div>
+    <div className='whitesmoke'>
       <div>
         <div>
           <h1>Close Encounters:</h1>
